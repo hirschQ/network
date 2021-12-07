@@ -1,0 +1,9 @@
+sophosxg supports only L3 inter-vlan routing! 
+
+____
+
+
+sophosxg and cisco catalyst lacp:
+
+sophos mode: 802.3ad + xmit hash L2+L3
+cisco catalyst mode: following
